@@ -1,60 +1,84 @@
 # 1. What is AWS?
 
-Answer: AWS is a cloud computing platform offering a variety of services such as computing power, storage, and databases.
-Explain the key components of AWS.
+AWS is a cloud computing platform offering a variety of services such as computing power, storage, and databases.
 
-Answer: Key components include EC2, S3, VPC, RDS, Lambda, among others.
-What is EC2 and how does it work?
+# 2.Explain the key components of AWS.
 
-Answer: EC2 provides resizable compute capacity in the cloud through virtual servers called instances.
-Describe S3 and its use cases.
+ Key components include 
+- EC2
+- S3
+- VPC
+- RDS
+- Lambda, among others.
+
+# 3.What is EC2 and how does it work?
+
+ EC2 provides resizable compute capacity in the cloud through virtual servers called instances.
+ 
+# 4.Describe S3 and its use cases.
 
 Answer: S3 is object storage for data storage, backup, and hosting static website content.
-What is the difference between RDS and DynamoDB?
 
-Answer: RDS is a relational database service, while DynamoDB is a NoSQL database service with seamless scalability.
-Explain the concept of Auto Scaling.
+# 5.What is the difference between RDS and DynamoDB?
 
-Answer: Auto Scaling adjusts the number of instances based on demand, ensuring optimal performance and cost efficiency.
-What is the significance of VPC in AWS?
+RDS is a relational database service, while DynamoDB is a NoSQL database service with seamless scalability.
+ 
+# 6.Explain the concept of Auto Scaling.
 
-Answer: VPC provides a logically isolated section of AWS Cloud, allowing users to launch resources in a controlled virtual network.
-How does CloudFormation work?
+Auto Scaling adjusts the number of instances based on demand, ensuring optimal performance and cost efficiency.
+ 
+# 7.What is the significance of VPC in AWS?
 
-Answer: CloudFormation allows users to define and provision AWS resources through infrastructure as code templates.
-What is IAM and how is it used in AWS?
+VPC provides a logically isolated section of AWS Cloud, allowing users to launch resources in a controlled virtual network.
 
-Answer: IAM is AWS's Identity and Access Management service, providing controls for user authentication and authorization.
-Explain the difference between horizontal and vertical scaling.
+# 8.How does CloudFormation work?
 
-Answer: Horizontal scaling adds instances for load distribution, while vertical scaling increases the capacity of a single instance.
-What is AWS Lambda, and when would you use it?
+CloudFormation allows users to define and provision AWS resources through infrastructure as code templates.
 
-Answer: AWS Lambda is a serverless compute service. It's used for executing code in response to events without provisioning or managing servers.
-Discuss the importance of security groups in AWS.
+# 9.What is IAM and how is it used in AWS?
 
-Answer: Security groups control inbound and outbound traffic to AWS instances, acting as virtual firewalls.
-Explain the purpose of Elastic Load Balancing.
+IAM is AWS's Identity and Access Management service, providing controls for user authentication and authorization.
 
-Answer: Elastic Load Balancing distributes incoming application traffic across multiple targets, improving availability and fault tolerance.
-What is Route 53 and what is its role in AWS?
+# 10.Explain the difference between horizontal and vertical scaling.
 
-Answer: Route 53 is AWS's scalable and highly available domain name system (DNS) web service, managing domain names and routing internet traffic.
-Describe the differences between on-demand instances, reserved instances, and spot instances in EC2.
+Horizontal scaling adds instances for load distribution, while vertical scaling increases the capacity of a single instance.
 
-Answer: On-demand instances are pay-as-you-go, reserved instances offer cost savings with upfront commitment, and spot instances are spare capacity at a lower price.
-How does AWS handle disaster recovery?
+# 10.What is AWS Lambda, and when would you use it?
 
-Answer: AWS offers services like Amazon S3 for backup, AWS Backup, and multi-region architecture to enhance disaster recovery capabilities.
-Explain the Shared Responsibility Model in AWS security.
+AWS Lambda is a serverless compute service. It's used for executing code in response to events without provisioning or managing servers.
 
-Answer: The model defines responsibilities: AWS manages security "of" the cloud, users manage security "in" the cloud.
-What is the AWS Well-Architected Framework?
+# 11.Discuss the importance of security groups in AWS.
 
-Answer: A set of best practices for building secure, efficient, and cost-effective architectures in the cloud.
-Discuss the significance of CloudWatch in AWS.
+Security groups control inbound and outbound traffic to AWS instances, acting as virtual firewalls.
 
-Answer: CloudWatch is a monitoring service tracking AWS resources and applications, providing data and actionable insights.
-What are the benefits of using AWS CloudFormation?
+# 12.Explain the purpose of Elastic Load Balancing.
+
+Elastic Load Balancing distributes incoming application traffic across multiple targets, improving availability and fault tolerance.
+
+# 13.What is Route 53 and what is its role in AWS?
+
+Route 53 is AWS's scalable and highly available domain name system (DNS) web service, managing domain names and routing internet traffic.
+
+# 14.Describe the differences between on-demand instances, reserved instances, and spot instances in EC2.
+
+On-demand instances are pay-as-you-go, reserved instances offer cost savings with upfront commitment, and spot instances are spare capacity at a lower price.
+
+# 15.How does AWS handle disaster recovery?
+
+AWS offers services like Amazon S3 for backup, AWS Backup, and multi-region architecture to enhance disaster recovery capabilities.
+
+# 16.Explain the Shared Responsibility Model in AWS security.
+
+The model defines responsibilities: AWS manages security "of" the cloud, users manage security "in" the cloud.
+
+# 17.What is the AWS Well-Architected Framework?
+
+A set of best practices for building secure, efficient, and cost-effective architectures in the cloud.
+
+# 18.Discuss the significance of CloudWatch in AWS.
+
+CloudWatch is a monitoring service tracking AWS resources and applications, providing data and actionable insights.
+
+# 19.What are the benefits of using AWS CloudFormation?
 
 Answer: AWS CloudFormation allows the provisioning and management of AWS infrastructure as code, enhancing consistency and scalability.
