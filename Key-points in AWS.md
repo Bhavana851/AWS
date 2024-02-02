@@ -1,4 +1,4 @@
-# 1. What is AWS?
+# 1.What is AWS?
 
 AWS is a cloud computing platform offering a variety of services such as computing power, storage, and databases.
 
@@ -43,42 +43,42 @@ IAM is AWS's Identity and Access Management service, providing controls for user
 
 Horizontal scaling adds instances for load distribution, while vertical scaling increases the capacity of a single instance.
 
-# 10.What is AWS Lambda, and when would you use it?
+# 11.What is AWS Lambda, and when would you use it?
 
 AWS Lambda is a serverless compute service. It's used for executing code in response to events without provisioning or managing servers.
 
-# 11.Discuss the importance of security groups in AWS.
+# 12.Discuss the importance of security groups in AWS.
 
 Security groups control inbound and outbound traffic to AWS instances, acting as virtual firewalls.
 
-# 12.Explain the purpose of Elastic Load Balancing.
+# 13.Explain the purpose of Elastic Load Balancing.
 
 Elastic Load Balancing distributes incoming application traffic across multiple targets, improving availability and fault tolerance.
 
-# 13.What is Route 53 and what is its role in AWS?
+# 14.What is Route 53 and what is its role in AWS?
 
 Route 53 is AWS's scalable and highly available domain name system (DNS) web service, managing domain names and routing internet traffic.
 
-# 14.Describe the differences between on-demand instances, reserved instances, and spot instances in EC2.
+# 15.Describe the differences between on-demand instances, reserved instances, and spot instances in EC2.
 
 On-demand instances are pay-as-you-go, reserved instances offer cost savings with upfront commitment, and spot instances are spare capacity at a lower price.
 
-# 15.How does AWS handle disaster recovery?
+# 16.How does AWS handle disaster recovery?
 
 AWS offers services like Amazon S3 for backup, AWS Backup, and multi-region architecture to enhance disaster recovery capabilities.
 
-# 16.Explain the Shared Responsibility Model in AWS security.
+# 17.Explain the Shared Responsibility Model in AWS security.
 
 The model defines responsibilities: AWS manages security "of" the cloud, users manage security "in" the cloud.
 
-# 17.What is the AWS Well-Architected Framework?
+# 18.What is the AWS Well-Architected Framework?
 
 A set of best practices for building secure, efficient, and cost-effective architectures in the cloud.
 
-# 18.Discuss the significance of CloudWatch in AWS.
+# 19.Discuss the significance of CloudWatch in AWS.
 
 CloudWatch is a monitoring service tracking AWS resources and applications, providing data and actionable insights.
 
-# 19.What are the benefits of using AWS CloudFormation?
+# 20.What are the benefits of using AWS CloudFormation?
 
 Answer: AWS CloudFormation allows the provisioning and management of AWS infrastructure as code, enhancing consistency and scalability.
