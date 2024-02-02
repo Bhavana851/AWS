@@ -1,4 +1,4 @@
-#1. What is AWS?
+# 1. What is AWS?
 
 Answer: AWS is a cloud computing platform offering a variety of services such as computing power, storage, and databases.
 Explain the key components of AWS.
