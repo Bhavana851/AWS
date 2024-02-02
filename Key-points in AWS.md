@@ -41,7 +41,8 @@ IAM is AWS's Identity and Access Management service, providing controls for user
 
 # 10.Explain the difference between horizontal and vertical scaling.
 
-Horizontal scaling adds instances for load distribution, while vertical scaling increases the capacity of a single instance.
+- Horizontal scaling adds instances for load distribution, while
+- vertical scaling increases the capacity of a single instance.
 
 # 11.What is AWS Lambda, and when would you use it?
 
