@@ -17,7 +17,7 @@ AWS is a cloud computing platform offering a variety of services such as computi
  
 # 4.Describe S3 and its use cases.
 
-Answer: S3 is object storage for data storage, backup, and hosting static website content.
+S3 is object storage for data storage, backup, and hosting static website content.
 
 # 5.What is the difference between RDS and DynamoDB?
 
@@ -81,4 +81,4 @@ CloudWatch is a monitoring service tracking AWS resources and applications, prov
 
 # 20.What are the benefits of using AWS CloudFormation?
 
-Answer: AWS CloudFormation allows the provisioning and management of AWS infrastructure as code, enhancing consistency and scalability.
+AWS CloudFormation allows the provisioning and management of AWS infrastructure as code, enhancing consistency and scalability.
